@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList.csproj", "{B185E305-A987-4C33-AC86-3B621D8C630E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B185E305-A987-4C33-AC86-3B621D8C630E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B185E305-A987-4C33-AC86-3B621D8C630E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B185E305-A987-4C33-AC86-3B621D8C630E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B185E305-A987-4C33-AC86-3B621D8C630E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5CC214-CCFF-41B3-A16A-78B8F70DED9A}
+	EndGlobalSection
+EndGlobal
